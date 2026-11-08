@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/langchain-ai/simple-agent-template/commit/bc464b5a860f32fa67e1c1ad171bd817f27518c5",
       "git:hexsha": "bc464b5a860f32fa67e1c1ad171bd817f27518c5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

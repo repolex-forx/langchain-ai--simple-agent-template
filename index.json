@@ -1,0 +1,11 @@
+{
+  "org": "langchain-ai",
+  "repo": "simple-agent-template",
+  "versions": [
+    {
+      "commit": "bc464b5a860f32fa67e1c1ad171bd817f27518c5",
+      "tag": "",
+      "parsed_at": "2026-11-08T00:48:02.480563+00:00"
+    }
+  ]
+}
